@@ -74,6 +74,6 @@
   "bugs": "https://github.com/Ironxxx/pf1ultimatepsionics/issues",
   "url": "https://github.com/Ironxxx/pf1ultimatepsionics",
 
-  "manifest": "https://raw.githubusercontent.com/Ironxxx/pf1ultimatepsionics/Release/module.json",
+  "manifest": "https://raw.githubusercontent.com/Ironxxx/pf1ultimatepsionics/Main/module.json",
   "download": "https://github.com/Ironxxx/pf1ultimatepsionics/releases/tag/1.0.1"
  }
