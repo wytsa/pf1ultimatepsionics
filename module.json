@@ -1,0 +1,75 @@
+{   
+   "name": "pf1ultimatepsionics",   
+   "title": "PF1 Ultimate Psionics Compendium",   
+   "description": "Sharing DSP's Ultimate Psionics for the Foundry PF1 system, Powers currently not included",   
+   "author": "Iron(Iron#6067)",
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.6.0",
+   "compatibleCoreVersion":"0.7.9",
+   "systems": ["pf1"],
+      "packs": [
+    {
+      "name": "psionic-buffs",
+      "label": "Psionic Buffs sample",
+	  "system": "pf1",
+      "path": "packs/psionic-buffs.db",
+      "entity": "Item",
+      "module": "pf1ultimatepsionics"
+    },
+    {
+      "name": "psionic-class-abilities",
+      "label": "Psionic Class Abilities",
+	  "system": "pf1",
+      "path": "packs/psionic-class-abilities.db",
+      "entity": "Item",
+      "module": "pf1ultimatepsionics"
+    },
+    {
+      "name": "psionic-classes",
+      "label": "Psionic Classes",
+	  "system": "pf1",
+      "path": "packs/psionic-classes.db",
+      "entity": "Item",
+      "module": "pf1ultimatepsionics"
+    },
+	    {
+      "name": "psionic-feats",
+      "label": "Psionic Feats",
+	  "system": "pf1",
+      "path": "packs/psionic-feats.db",
+      "entity": "Item",
+      "module": "pf1ultimatepsionics"
+    },
+			    {
+      "name": "psionic-items",
+      "label": "Psionic Items sample",
+      "path": "packs/psionic-items.db",
+      "entity": "Item",
+      "module": "pf1ultimatepsionics"
+    },
+				    {
+      "name": "psionic-races",
+      "label": "Psionic Races",
+	  "system": "pf1",
+      "path": "packs/psionic-races.db",
+      "entity": "Item",
+      "module": "pf1ultimatepsionics"
+    },
+					    {
+      "name": "psionic-skills",
+      "label": "Psionic Skills",
+	  "system": "pf1",
+      "path": "packs/psionic-skills.db",
+      "entity": "JournalEntry",
+      "module": "pf1ultimatepsionics"
+    },
+					    {
+      "name": "psionic-powers",
+      "label": "Psionic Powers sample",
+	  "system": "pf1",
+      "path": "packs/psionic-powers.db",
+      "entity": "Item",
+      "module": "pf1ultimatepsionics"
+    }
+  ]
+ }
