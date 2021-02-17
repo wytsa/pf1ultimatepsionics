@@ -3,7 +3,7 @@
    "title": "PF1 Ultimate Psionics Compendium",   
    "description": "Sharing DSP's Ultimate Psionics for the Foundry PF1 system, Powers currently not included",   
    "author": "Iron(Iron#6067)",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "minimumCoreVersion": "0.6.0",
    "systems": ["pf1"],
       "packs": [
