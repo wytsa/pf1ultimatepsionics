@@ -71,9 +71,9 @@
       "module": "pf1ultimatepsionics"
     }
   ], 
-  "bugs": "https://github.com/Ironxxx/pf1ultimatepsionics/issues",
-  "url": "https://github.com/Ironxxx/pf1ultimatepsionics",
+  "bugs": "https://github.com/wytsa/pf1ultimatepsionics/issues",
+  "url": "https://github.com/wytsa/pf1ultimatepsionics",
 
-  "manifest": "https://raw.githubusercontent.com/Ironxxx/pf1ultimatepsionics/main/module.json",
-  "download": "https://github.com/Ironxxx/pf1ultimatepsionics/archive/1.0.7.zip"
+  "manifest": "https://github.com/wytsa/pf1ultimatepsionics/raw/main/module.json",
+  "download": "https://github.com/wytsa/pf1ultimatepsionics/archive/1.0.7.zip"
  }
